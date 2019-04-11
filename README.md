@@ -14,3 +14,12 @@ The goal will be to build an app to record important activities being carried ou
 
 •	Fiori Guidelines https://experience.sap.com/fiori-design/
 
+Para conhecer melhor o projeto e aprender um pouco mais sobre as tecnologias utilizadas
+
+http://saphanadev.com.br
+https://www.youtube.com/channel/UCl8-9OTpj56YYzxmd3z7lzQ
+
+To learn more about the project and learn more about the technologies used
+
+http://saphanadev.com.br
+https://www.youtube.com/channel/UCl8-9OTpj56YYzxmd3z7lzQ
